@@ -1,0 +1,5 @@
+﻿OpenGL lab1.obj : error LNK2005: "bool __cdecl LoadTGA(struct Texture *,char *)" (?LoadTGA@@YA_NPAUTexture@@PAD@Z) already defined in Mesh.obj
+OpenGL lab1.obj : error LNK2005: "struct TGAHeader tgaheader" (?tgaheader@@3UTGAHeader@@A) already defined in Mesh.obj
+OpenGL lab1.obj : error LNK2005: "struct TGA tga" (?tga@@3UTGA@@A) already defined in Mesh.obj
+OpenGL lab1.obj : error LNK2005: "unsigned char * uTGAcompare" (?uTGAcompare@@3PAEA) already defined in Mesh.obj
+C:\Users\toanb\documents\visual studio 2015\Projects\OpenGL lab1\Debug\OpenGL lab1.exe : fatal error LNK1169: one or more multiply defined symbols found
